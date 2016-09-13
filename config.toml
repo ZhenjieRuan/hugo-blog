@@ -1,0 +1,20 @@
+baseurl = "https://zhenjieruan.github.io/"
+languageCode = "en-us"
+builddrafts = true
+title = "Zhenjie Ruan's Tech Vault"
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+canonifyurls = true
+
+[permalinks]
+fixed = ":title/"
+blog = "blog/:slug"
+
+[Params]
+Author = "Zhenjie Ruan"
+DateForm = "Jan 2, 2006"
+DateFormFull = "Mon Jan 2 2006 15:04:05 PDT"
+HighlightJS = true
+Email = "zhenjier@bu.edu"
+GitHub = "//github.com/ZhenjieRuan"
