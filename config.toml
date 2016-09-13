@@ -1,6 +1,6 @@
 baseurl = "https://zhenjieruan.github.io/"
 languageCode = "en-us"
-builddrafts = true
+builddrafts = false
 title = "Zhenjie Ruan's Tech Vault"
 contentdir = "content"
 layoutdir = "layouts"
